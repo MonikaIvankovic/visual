@@ -1,0 +1,65 @@
+.slika {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 10px;
+}
+
+.slika--jedan {
+  height: 150px;
+}
+
+.slika--dva {
+  height: 450px;
+}
+
+.slika--tri {
+  height: 250px;
+}
+
+.slika--cetiri {
+  height: 60px;
+}
+
+main,
+div {
+  margin: 10px 0px 10px 0px;
+}
+
+h1,
+h2,
+p,
+form {
+  margin: 20px;
+}
+
+header {
+  border: 2px solid coral;
+}
+
+nav {
+  border: 2px solid green;
+  margin: 10px;
+}
+
+.tijelo {
+  border: 2px solid blue;
+}
+
+section {
+  border: 2px solid orange;
+  border-style: dashed;
+  margin: 10px;
+}
+
+footer {
+  border: 2px solid green;
+}
+
+#copyright {
+  margin: 10px;
+}
+/*# sourceMappingURL=styles.css.map */

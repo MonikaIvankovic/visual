@@ -1,0 +1,48 @@
+.slika {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  &--jedan {
+    height: 150px;
+  }
+  &--dva {
+    height: 450px;
+  }
+  &--tri {
+    height: 250px;
+  }
+  &--cetiri {
+    height: 60px;
+  }
+}
+main,
+div {
+  margin: 10px 0px 10px 0px;
+}
+h1,
+h2,
+p,
+form {
+  margin: 20px;
+}
+header {
+  border: 2px solid coral;
+}
+nav {
+  border: 2px solid green;
+  margin: 10px;
+}
+.tijelo {
+  border: 2px solid blue;
+}
+section {
+  border: 2px solid orange;
+  border-style: dashed;
+  margin: 10px;
+}
+footer {
+  border: 2px solid green;
+}
+#copyright {
+  margin: 10px;
+}
